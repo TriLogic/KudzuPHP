@@ -11,6 +11,6 @@ The engine supports a modest set of useful tags for reptition of content, condit
 
 The engine was designed to be extremely easy to use and easy to extend.  Writing a custom tag handler and implementing them is often easier than combining generic tag constructs to achieve the same goal.
 
-KudzuPHP sports a web-centric tagging scheme.
+KudzuPHP sports a web-centric tagging scheme.... more to follow...
 
 
