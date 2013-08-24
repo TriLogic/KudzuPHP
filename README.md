@@ -1,7 +1,7 @@
 KudzuPHP
 ========
 
-An event driver template engine for PHP.
+An event driven template engine for PHP.
 
 KudzuPHP is yet another template engine written in PHP to templating content.  It is the result of converting the KudzuASP template engine to PHP.  The orignal engine code was written in Visual Basic 5 and leveraged COM for objects.  Just after the advent of ASP 3 the engine was recoded in VBScript because at that time there was no template engine for that platform.  A conversion to .NET in C# also exists.
 
