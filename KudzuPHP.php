@@ -9,7 +9,7 @@
  * License  : GPLv2, Commercial License Available
  */
 define('KUDZUPHP',true);
-define('KUDZUPHP_VERSION', '1.5.4');
+define('KUDZUPHP_VERSION', '1.6.0');
 $KudzuLIB = new CKudzuLib();
 
 class CKudzuLibItem {
@@ -84,7 +84,6 @@ class CKudzuLib {
 		return $this->tagLibs[strtolower($libName)];
 	}
 	function libSetTags($libName,$eng) {
-
 		$this->libImport($libName);
 		$libObj = $this->libGet($libName);
 		if ($libObj == null) return false;
